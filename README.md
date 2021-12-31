@@ -3,7 +3,7 @@
 
 ### How to run👾
 
-```
+```python
 chmod +x c
 ```
 

@@ -14,11 +14,11 @@
 ### How to run👾
 
 ```python
-chmod +x c
+chmod +x *
 ```
 
 ```
-./c // bash age.sh
+./c // ./age.sh
 ```
 
 

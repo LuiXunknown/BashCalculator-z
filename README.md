@@ -17,6 +17,11 @@
 chmod +x *
 ```
 
+Install bc package
+```
+apt install bc
+```
+
 ```
 ./c // ./age.sh
 ```

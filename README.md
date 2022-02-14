@@ -30,10 +30,10 @@ apt install bc
 <b>For Cloud Shell or Kali Linux<b>
 
 ```
-  sudo su
+sudo su
   ```
   ```
-  apt get install bc
+apt get install bc
   ```
   
   

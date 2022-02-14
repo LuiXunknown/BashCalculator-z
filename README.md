@@ -23,7 +23,7 @@ apt install bc
 ```
 
 ```
-./c // ./age.sh
+./c or ./age.sh
 ```
 
 
